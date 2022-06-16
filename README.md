@@ -7,8 +7,7 @@ Projeto: 🚀Concluído
 <p align="center">
  <a href="#-objetivo">Objetivo</a> •
  <a href="#-tecnologias">Tecnologias</a> •
- <a href="#-autor">Autor</a> • 
- <a href="#-licença">Licença</a>
+ <a href="#-autor">Autor</a>
 </p>
 
 ## 💻 Objetivo
@@ -30,10 +29,5 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Dario-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dariocode/)](https://www.linkedin.com/in/dariocode/) 
 [![Gmail Badge](https://img.shields.io/badge/-darioarjr321@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:darioarjr321@gmail.com)](mailto:darioarjr321@gmail.com)
-
-
-## 📝 Licença
-
-Este projeto esta sobe a licença [MIT](./LICENSE).
 
 Feito com ❤️ por Dario Junior 👋🏽 [Entre em contato!](https://www.linkedin.com/in/dariocode/)
